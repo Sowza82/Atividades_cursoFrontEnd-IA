@@ -28,3 +28,65 @@ A proposta é unir as bases sólidas do desenvolvimento web com as tendências e
 
 ## 📂 Estrutura do Repositório
 
+
+📁 atividades/
+├── semana-01/
+├── semana-02/
+└── ...
+📁 projetos/
+├── projeto-final/
+└── mini-projetos/
+📁 materiais/
+└── slides, links úteis, docs, etc.
+README.md
+
+yaml
+Copiar
+Editar
+
+
+---
+
+## 🛠 Tecnologias e Ferramentas
+
+- HTML5, CSS3, JavaScript (ES6+)  
+- VS Code + extensões com IA  
+- Git e GitHub  
+- Figma (com IA assistente)  
+- ChatGPT para geração e refatoração de código  
+- GitHub Copilot  
+- Frameworks/libraries (a definir durante o curso)  
+
+---
+
+## 🤖 IA na prática
+
+Durante o curso, aprenderemos a utilizar IA para:  
+- Sugerir código e resolver bugs  
+- Gerar conteúdo e imagens  
+- Automatizar protótipos e wireframes  
+- Criar fluxos de navegação inteligentes  
+- Acelerar o desenvolvimento front-end  
+
+---
+
+## 💬 Colabore
+
+Este repositório é um espaço de aprendizado e troca.  
+Sinta-se livre para contribuir, abrir issues, propor melhorias ou simplesmente deixar seu ⭐ se estiver curtindo o conteúdo.
+
+---
+
+## 📅 Cronograma
+
+O cronograma será atualizado semanalmente conforme o andamento das aulas.  
+Fique de olho na pasta `atividades/` para acompanhar tudo.
+
+---
+
+## 📌 Autoria
+
+Desenvolvido com ❤️ por **Tatiane Souza (Sowzatech)**  
+Curso realizado por **Salvador Tech + Unifel** • 2025
+
+
